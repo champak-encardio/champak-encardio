@@ -1,4 +1,4 @@
-import WikiImageEmbed from "../../home.js";
+import WikiImageEmbed from "../../home.jsx";
 
 // Registry — add new guides here.
 // Each entry needs: id, title, description, category, component.
